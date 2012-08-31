@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scroller"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true" >
+
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+    
+    <TextView
+    	android:id="@+id/resentful"
+    	android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:text="@string/resentful"
+    	android:textSize="14pt">
+    	</TextView>
+    	
+    <EditText
+        android:id="@+id/EditResent"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" 
+       
+        />
+        
+         <TextView
+    	android:id="@+id/selfish"
+    	android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:text="@string/selfish"
+    	android:textSize="14pt">
+    	</TextView>
+         <EditText android:layout_width="fill_parent" android:id="@+id/EditSelfish" android:layout_height="wrap_content" android:inputType="textAutoCorrect" 
+         >
+            
+         </EditText>
+          <TextView
+    	android:id="@+id/dishonest"
+    	android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:text="@string/dishonest"
+    	android:textSize="14pt">
+    	</TextView>
+    	<EditText android:layout_width="fill_parent" android:id="@+id/EditDishonest" android:layout_height="wrap_content"
+    	 >
+            
+         </EditText>
+         <TextView
+    	android:id="@+id/afraid"
+    	android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:text="@string/afraid"
+    	android:textSize="14pt">
+    	</TextView>
+    	<EditText android:layout_width="fill_parent" android:id="@+id/EditAfraid" android:layout_height="wrap_content"
+    	 >
+            
+         </EditText>
+         <TextView
+    	android:id="@+id/apology"
+    	android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:text="@string/apology"
+    	android:textSize="14pt">
+    	</TextView>
+    	<EditText android:layout_width="fill_parent" android:id="@+id/EditApology" android:layout_height="wrap_content"
+    	 >
+            
+         </EditText>
+         <TextView
+    	android:id="@+id/another"
+    	android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:text="@string/another"
+    	android:textSize="14pt">
+    	</TextView>
+    	<EditText android:layout_width="fill_parent" android:id="@+id/EditAnother" android:layout_height="wrap_content"
+    	 >
+            
+         </EditText>
+         <TextView
+    	android:id="@+id/kind"
+    	android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:text="@string/kind"
+    	android:textSize="14pt">
+    	</TextView>
+    	<EditText android:layout_width="fill_parent" android:id="@+id/EditKind" android:layout_height="wrap_content"
+    	 >
+            
+         </EditText>
+         <TextView
+    	android:id="@+id/better"
+    	android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:text="@string/better"
+    	android:textSize="14pt">
+    	</TextView>
+    	<EditText android:layout_width="fill_parent" android:id="@+id/EditBetter" android:layout_height="wrap_content"
+    	 >
+            
+         </EditText>
+         <TextView
+    	android:id="@+id/myself"
+    	android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:text="@string/myself"
+    	android:textSize="14pt">
+    	</TextView>
+    	<EditText android:layout_width="fill_parent" android:id="@+id/EditMyself" android:layout_height="wrap_content"
+    	 >
+            
+         </EditText>
+         <TextView
+    	android:id="@+id/others"
+    	android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:text="@string/others"
+    	android:textSize="14pt">
+    	</TextView>
+    	<EditText android:layout_width="fill_parent" android:id="@+id/EditOthers" android:layout_height="wrap_content"
+    	 >
+            
+         </EditText>
+         <TextView
+    	android:id="@+id/redink"
+    	android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:text="@string/redink"
+    	android:textSize="14pt">
+    	</TextView>
+    	<EditText android:layout_width="fill_parent" android:id="@+id/EditRedink" android:layout_height="wrap_content"
+    	>
+            
+         </EditText>
+         <TextView
+    	android:id="@+id/after"
+    	android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:text="@string/after"
+    	android:textSize="14pt">
+    	</TextView>
+         <Button android:layout_width="match_parent" android:id="@+id/button1" android:text="Save Tenth Step" android:layout_height="wrap_content"></Button>
+        
+        
+    	
+</LinearLayout>
+</ScrollView>

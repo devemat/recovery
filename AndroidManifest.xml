@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.recovery.android.recoveryapp"
+      android:versionCode="16"
+      android:versionName="1.2.3">
+      <uses-sdk android:minSdkVersion="3" 
+         android:targetSdkVersion="8"/>
+    <uses-feature android:name="android.hardware.touchscreen" android:required="false"/>
+	<uses-permission android:name="android.permission.INTERNET"/>
+	<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+	
+
+    <application android:icon="@drawable/icon3" android:label="@string/app_name">
+        <activity android:name=".MainActivity"
+                  android:label="@string/app_name"
+                  >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+	<activity android:name=".LoadPage" android:configChanges="keyboard|keyboardHidden|orientation">
+	</activity>
+	<activity android:name=".TwelveSteps" android:configChanges="keyboard|keyboardHidden|orientation">
+	</activity>
+	<activity android:name=".TwelveTraditions" android:configChanges="keyboard|keyboardHidden|orientation">
+	</activity>
+	<activity android:name=".BigBook" android:configChanges="keyboard|keyboardHidden|orientation">
+	</activity>
+	<activity android:name=".TenthForm" android:configChanges="keyboard|keyboardHidden|orientation">
+	</activity>
+	<activity android:name=".LoadSavedTenthStep" android:configChanges="keyboard|keyboardHidden|orientation">
+	</activity>
+	<activity android:name=".TenthStep" android:configChanges="keyboard|keyboardHidden|orientation">
+	</activity>
+	<activity android:name=".Prayers" android:configChanges="keyboard|keyboardHidden|orientation">
+	</activity>
+	<activity android:name=".GeoWebView" android:configChanges="keyboard|keyboardHidden|orientation">
+	</activity>
+	<activity android:name=".TenthStepList" android:configChanges="keyboard|keyboardHidden|orientation">
+	</activity>
+	
+    </application>
+   
+</manifest>

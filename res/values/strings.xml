@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RecoveryApp</string>
+    <string name="select_text">Select Text</string>
+    <string name="search">Find Text</string>
+    <string name="resentful">Was I resentful?</string>
+    <string name="selfish">Was I selfish?</string>
+    <string name="dishonest">Was I dishonest?</string>
+    <string name="afraid">Was I afraid?</string>
+    <string name="apology">Do I owe an apology?</string>
+    <string name="another">Have I kept something to myself which should be discussed with another person at once?</string>
+    <string name="kind">Was I kind and loving toward all?</string>
+    <string name="better">What could I have done better?</string>
+    <string name="myself">Was I thinking of myself most of the time?</string>
+    <string name="others">Was I thinking of what I could do for others, what I could pack into the stream of life?</string>
+    <string name="after">After making our review we ask God\'s forgiveness and inquire what corrective measures should be taken.</string>
+    <string name="redink">This is a good place to remember that inventory-taking is not always done in red ink. It\'s a poor day indeed when we haven\'t done something right. --12&amp;12 page 93</string>
+
+    
+    <string name="home">Home</string>
+    
+    <string-array name="MainOptions">
+    	<item>12 Steps</item>
+    	<item>12 Traditions</item>
+    	<item>Big Book</item>
+    	<item>Eleventh Step</item>
+    	<item>How It Works</item>
+    	<item>Meetings</item>
+    	<item>Ninth Step Promises</item>
+    	<item>Prayers</item>
+    	<item>Preamble</item>
+    	<item>Recovery Readings</item>
+    	<item>Tenth Step</item>
+    </string-array>
+    
+    <string-array name="MainOptionsLinks">
+    	<item></item>
+    	<item></item>
+    	<item></item>
+    	<item>file:///android_asset/eleventhstep.html</item>
+    	<item>file:///android_asset/howitworks.html</item>
+    	<item>http://meetings.intherooms.com</item>
+    	<item>file:///android_asset/promises.html</item>
+    	<item></item>
+    	<item>file:///android_asset/preamble.html</item>
+    	<item>http://recoveryapp.blogspot.com/</item>
+    	<item></item>
+    </string-array>
+    
+    <string-array name="PrayersOptions">
+        <item>3rd Step Prayer</item>
+    	<item>7th Step Prayer</item>
+    	<item>Serenity Prayer</item>
+    	<item>St. Francis Prayer</item>	
+    </string-array>
+    
+    <string-array name="PrayerOptionsLinks">
+        <item>file:///android_asset/thirdstep.html</item>
+        <item>file:///android_asset/sevstepfour.html</item>
+    	<item>file:///android_asset/serenityprayer.html</item>
+    	<item>file:///android_asset/stfrancis.html</item>
+    </string-array>
+    
+    <string-array name="TenthStepOptions">
+    	<item>Text</item>
+    	<item>Form</item>
+    	<item>Saved Tenth Steps</item>
+    </string-array>
+    
+    <string-array name="TenthStepOptionsLinks">
+    	<item>file:///android_asset/tenthstep.html</item>
+    </string-array>
+    
+    <string-array name="BigBookOptions">
+    	<item>Forward</item>
+    	<item>The Doctor\'s Opinion XXV&#8211;XXXII</item>
+    	<item>Bill\'s Story 1&#8211;16</item>
+    	<item>There Is A Solution 17&#8211;29</item>
+    	<item>More About Alcoholism 30&#8211;43</item>
+    	<item>We Agnostics 44&#8211;57</item>
+    	<item>How It Works 58&#8211;71</item>
+    	<item>Into Action 72&#8211;88</item>
+    	<item>Working with Others 89&#8211;103</item>
+    	<item>To Wives 104&#8211;121</item>
+    	<item>The Family Afterward 122&#8211;135</item>
+    	<item>To Employers 136&#8211;150</item>
+    	<item>A Vision for You 151&#8211;164</item>
+    	<item>Personal Stories</item>
+    	<item>Appendix</item>
+    </string-array>
+    
+    <string-array name="BigBookOptionsLinks">
+    	<item>http://www.aasoberliving.com/BB/forward.html</item>
+    	<item>file:///android_asset/drsopinion.html</item>
+    	<item>file:///android_asset/billstory.html</item>
+    	<item>file:///android_asset/thereisasolution.html</item>
+    	<item>file:///android_asset/moreabout.html</item>
+    	<item>file:///android_asset/weagnostics.html</item>
+    	<item>file:///android_asset/howitworksbb.html</item>
+    	<item>file:///android_asset/intoaction.html</item>
+    	<item>file:///android_asset/workingwithothers.html</item>
+    	<item>file:///android_asset/towives.html</item>
+    	<item>file:///android_asset/thefamilyafterward.html</item>
+    	<item>file:///android_asset/toemployers.html</item>
+    	<item>file:///android_asset/avisionforyou.html</item>
+    	<item>http://www.aasoberliving.com/BB/stories1.html</item>
+    	<item>file:///android_asset/bbindex.html</item>
+    </string-array>
+    
+    <string-array name="TwelveTraditionsOptions">
+    	<item>12 Traditions Short Version</item>
+    	<item>Tradition One</item>
+    	<item>Tradition Two</item>
+    	<item>Tradition Three</item>
+    	<item>Tradition Four</item>
+    	<item>Tradition Five</item>
+    	<item>Tradition Six</item>
+    	<item>Tradition Seven</item>
+    	<item>Tradition Eight</item>
+    	<item>Tradition Nine</item>
+    	<item>Tradition Ten</item>
+    	<item>Tradition Eleven</item>
+    	<item>Tradition Twelve</item>
+    </string-array>
+    
+    <string-array name="TwelveTraditionsOptionsLinks">
+    	<item>http://www.dailyrecovery.net/trad.html</item>
+    	<item>http://www.dailyrecovery.net/trad1.html</item>
+    	<item>http://www.dailyrecovery.net/trad2.html</item>
+    	<item>http://www.dailyrecovery.net/trad3.html</item>
+    	<item>http://www.dailyrecovery.net/trad4.html</item>
+    	<item>http://www.dailyrecovery.net/trad5.html</item>
+    	<item>http://www.dailyrecovery.net/trad6.html</item>
+    	<item>http://www.dailyrecovery.net/trad7.html</item>
+    	<item>http://www.dailyrecovery.net/trad8.html</item>
+    	<item>http://www.dailyrecovery.net/trad9.html</item>
+    	<item>http://www.dailyrecovery.net/trad10.html</item>
+    	<item>http://www.dailyrecovery.net/trad11.html</item>
+    	<item>http://www.dailyrecovery.net/trad12.html</item>
+    </string-array>
+    
+    <string-array name="TwelveStepsOptions">
+    	<item>12 Steps Short Version</item>
+    	<item>Step One</item>
+    	<item>Step Two</item>
+    	<item>Step Three</item>
+    	<item>Step Four</item>
+    	<item>Step Five</item>
+    	<item>Step Six</item>
+    	<item>Step Seven</item>
+    	<item>Step Eight</item>
+    	<item>Step Nine</item>
+    	<item>Step Ten</item>
+    	<item>Step Eleven</item>
+    	<item>Step Twelve</item>
+    </string-array>
+    
+    <string-array name="TwelveStepsOptionsLinks">
+    	<item>http://www.dailyrecovery.net/step.html</item>
+    	<item>http://www.dailyrecovery.net/step1.html</item>
+    	<item>http://www.dailyrecovery.net/step2.html</item>
+    	<item>http://www.dailyrecovery.net/step3.html</item>
+    	<item>http://www.dailyrecovery.net/step4.html</item>
+    	<item>http://www.dailyrecovery.net/step5.html</item>
+    	<item>http://www.dailyrecovery.net/step6.html</item>
+    	<item>http://www.dailyrecovery.net/step7.html</item>
+    	<item>http://www.dailyrecovery.net/step8.html</item>
+    	<item>http://www.dailyrecovery.net/step9.html</item>
+    	<item>http://www.dailyrecovery.net/step10.html</item>
+    	<item>http://www.dailyrecovery.net/step11.html</item>
+    	<item>http://www.dailyrecovery.net/step12.html</item>
+    </string-array>
+</resources>
