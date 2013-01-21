@@ -29,8 +29,8 @@ public class MainActivity extends ListActivity {
                     int position, long id) {
             	String userSelect = options[position];
             	
-            	if(userSelect == options[3] || userSelect == options[4] 
-            	   || userSelect == options[6] || userSelect == options[8] || userSelect == options[9]){
+            	if(userSelect == options[2] || userSelect == options[3] 
+            	   || userSelect == options[5] || userSelect == options[7] || userSelect == options[8]){
             		String contentLink = links[position];
             		Intent showContent = new Intent(getApplicationContext(), LoadPage.class);
             		showContent.setData(Uri.parse(contentLink));
@@ -41,24 +41,20 @@ public class MainActivity extends ListActivity {
         			startActivityForResult(myIntent,0);
             	}
             	else if(userSelect == options[1]){
-            		Intent myIntent = new Intent(view.getContext(), TwelveTraditions.class);
-        			startActivityForResult(myIntent,0);
-            	}
-            	else if(userSelect == options[2]){
             		Intent myIntent = new Intent(view.getContext(), BigBook.class);
         			startActivityForResult(myIntent,0);
             	}
-            	else if(userSelect == options[5]){
+            	else if(userSelect == options[4]){
             		String contentLink = links[position];
             		Intent showContent = new Intent(getApplicationContext(), GeoWebView.class);
             		showContent.setData(Uri.parse(contentLink));
             		startActivity(showContent);
             	}
-            	else if(userSelect == options[7]){
+            	else if(userSelect == options[6]){
             		Intent myIntent = new Intent(view.getContext(), Prayers.class);
         			startActivityForResult(myIntent,0);
             	}
-            	else if(userSelect == options[10]){
+            	else if(userSelect == options[9]){
             		Intent myIntent = new Intent(view.getContext(), TenthStep.class);
         			startActivityForResult(myIntent,0);
             	}

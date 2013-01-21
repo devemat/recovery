@@ -20,8 +20,7 @@
     <string name="home">Home</string>
     
     <string-array name="MainOptions">
-    	<item>12 Steps</item>
-    	<item>12 Traditions</item>
+    	<item>12 &#38; 12</item>
     	<item>Big Book</item>
     	<item>Eleventh Step</item>
     	<item>How It Works</item>
@@ -34,7 +33,6 @@
     </string-array>
     
     <string-array name="MainOptionsLinks">
-    	<item></item>
     	<item></item>
     	<item></item>
     	<item>file:///android_asset/eleventhstep.html</item>
@@ -56,7 +54,7 @@
     
     <string-array name="PrayerOptionsLinks">
         <item>file:///android_asset/thirdstep.html</item>
-        <item>file:///android_asset/sevstepfour.html</item>
+        <item>file:///android_asset/seventhstep.html</item>
     	<item>file:///android_asset/serenityprayer.html</item>
     	<item>file:///android_asset/stfrancis.html</item>
     </string-array>
@@ -72,7 +70,7 @@
     </string-array>
     
     <string-array name="BigBookOptions">
-    	<item>Forward</item>
+    	<item>Foreword XIII&#8211;XXIV</item>
     	<item>The Doctor\'s Opinion XXV&#8211;XXXII</item>
     	<item>Bill\'s Story 1&#8211;16</item>
     	<item>There Is A Solution 17&#8211;29</item>
@@ -90,13 +88,13 @@
     </string-array>
     
     <string-array name="BigBookOptionsLinks">
-    	<item>http://www.aasoberliving.com/BB/forward.html</item>
+    	<item>file:///android_asset/foreword.html</item>
     	<item>file:///android_asset/drsopinion.html</item>
     	<item>file:///android_asset/billstory.html</item>
     	<item>file:///android_asset/thereisasolution.html</item>
     	<item>file:///android_asset/moreabout.html</item>
     	<item>file:///android_asset/weagnostics.html</item>
-    	<item>file:///android_asset/howitworksbb.html</item>
+    	<item>file:///android_asset/howworks2.html</item>
     	<item>file:///android_asset/intoaction.html</item>
     	<item>file:///android_asset/workingwithothers.html</item>
     	<item>file:///android_asset/towives.html</item>
@@ -124,23 +122,24 @@
     </string-array>
     
     <string-array name="TwelveTraditionsOptionsLinks">
-    	<item>http://www.dailyrecovery.net/trad.html</item>
-    	<item>http://www.dailyrecovery.net/trad1.html</item>
-    	<item>http://www.dailyrecovery.net/trad2.html</item>
-    	<item>http://www.dailyrecovery.net/trad3.html</item>
-    	<item>http://www.dailyrecovery.net/trad4.html</item>
-    	<item>http://www.dailyrecovery.net/trad5.html</item>
-    	<item>http://www.dailyrecovery.net/trad6.html</item>
-    	<item>http://www.dailyrecovery.net/trad7.html</item>
-    	<item>http://www.dailyrecovery.net/trad8.html</item>
-    	<item>http://www.dailyrecovery.net/trad9.html</item>
-    	<item>http://www.dailyrecovery.net/trad10.html</item>
-    	<item>http://www.dailyrecovery.net/trad11.html</item>
-    	<item>http://www.dailyrecovery.net/trad12.html</item>
+    	<item>file:///android_asset/TradSV.html</item>
+    	<item>file:///android_asset/Trad1.html</item>
+    	<item>file:///android_asset/Trad2.html</item>
+    	<item>file:///android_asset/Trad3.html</item>
+    	<item>file:///android_asset/Trad4.html</item>
+    	<item>file:///android_asset/Trad5.html</item>
+    	<item>file:///android_asset/Trad6.html</item>
+    	<item>file:///android_asset/Trad7.html</item>
+    	<item>file:///android_asset/Trad8.html</item>
+    	<item>file:///android_asset/Trad9.html</item>
+    	<item>file:///android_asset/Trad10.html</item>
+    	<item>file:///android_asset/Trad11.html</item>
+    	<item>file:///android_asset/Trad12.html</item>
     </string-array>
     
     <string-array name="TwelveStepsOptions">
     	<item>12 Steps Short Version</item>
+    	<item>12 Traditions Short Version</item>
     	<item>Step One</item>
     	<item>Step Two</item>
     	<item>Step Three</item>
@@ -153,21 +152,46 @@
     	<item>Step Ten</item>
     	<item>Step Eleven</item>
     	<item>Step Twelve</item>
+    	<item>Tradition One</item>
+    	<item>Tradition Two</item>
+    	<item>Tradition Three</item>
+    	<item>Tradition Four</item>
+    	<item>Tradition Five</item>
+    	<item>Tradition Six</item>
+    	<item>Tradition Seven</item>
+    	<item>Tradition Eight</item>
+    	<item>Tradition Nine</item>
+    	<item>Tradition Ten</item>
+    	<item>Tradition Eleven</item>
+    	<item>Tradition Twelve</item>
     </string-array>
     
     <string-array name="TwelveStepsOptionsLinks">
-    	<item>http://www.dailyrecovery.net/step.html</item>
-    	<item>http://www.dailyrecovery.net/step1.html</item>
-    	<item>http://www.dailyrecovery.net/step2.html</item>
-    	<item>http://www.dailyrecovery.net/step3.html</item>
-    	<item>http://www.dailyrecovery.net/step4.html</item>
-    	<item>http://www.dailyrecovery.net/step5.html</item>
-    	<item>http://www.dailyrecovery.net/step6.html</item>
-    	<item>http://www.dailyrecovery.net/step7.html</item>
-    	<item>http://www.dailyrecovery.net/step8.html</item>
-    	<item>http://www.dailyrecovery.net/step9.html</item>
-    	<item>http://www.dailyrecovery.net/step10.html</item>
-    	<item>http://www.dailyrecovery.net/step11.html</item>
-    	<item>http://www.dailyrecovery.net/step12.html</item>
+    	<item>file:///android_asset/StepSV.html</item>
+    	<item>file:///android_asset/TradSV.html</item>
+    	<item>file:///android_asset/Step1.html</item>
+    	<item>file:///android_asset/Step2.html</item>
+    	<item>file:///android_asset/Step3.html</item>
+    	<item>file:///android_asset/Step4.html</item>
+    	<item>file:///android_asset/Step5.html</item>
+    	<item>file:///android_asset/Step6.html</item>
+    	<item>file:///android_asset/Step7.html</item>
+    	<item>file:///android_asset/Step8.html</item>
+    	<item>file:///android_asset/Step9.html</item>
+    	<item>file:///android_asset/Step10.html</item>
+    	<item>file:///android_asset/Step11.html</item>
+    	<item>file:///android_asset/Step12.html</item>
+    	<item>file:///android_asset/Trad1.html</item>
+    	<item>file:///android_asset/Trad2.html</item>
+    	<item>file:///android_asset/Trad3.html</item>
+    	<item>file:///android_asset/Trad4.html</item>
+    	<item>file:///android_asset/Trad5.html</item>
+    	<item>file:///android_asset/Trad6.html</item>
+    	<item>file:///android_asset/Trad7.html</item>
+    	<item>file:///android_asset/Trad8.html</item>
+    	<item>file:///android_asset/Trad9.html</item>
+    	<item>file:///android_asset/Trad10.html</item>
+    	<item>file:///android_asset/Trad11.html</item>
+    	<item>file:///android_asset/Trad12.html</item>
     </string-array>
 </resources>

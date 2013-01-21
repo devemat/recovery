@@ -38,6 +38,7 @@ public class LoadPage extends Activity{
 		viewer = (WebView)findViewById(R.id.webview);
 		
 		mOptions = new RAMenuOptions(context, viewer);
+		
 		viewer.getSettings().setJavaScriptEnabled(true);
 		viewer.getSettings().setBuiltInZoomControls(true);
 		viewer.setWebViewClient(new HelloWebViewClient());
